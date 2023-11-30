@@ -6,9 +6,9 @@ This project is a calculator that calculates simple interest given principal, an
 
 ### Input:
 
-- `p`: Principal amount
-- `t`: Time period in years
-- `r`: Annual rate of interest
+* `p`: Principal amount
+* `t`: Time period in years
+* `r`: Annual rate of interest
 
 ### Output:
 
